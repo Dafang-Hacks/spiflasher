@@ -38,3 +38,6 @@ There is a nice script from https://github.com/xwings/yi_home_cam_v1/blob/master
 ```
 ./write.py
 ```
+
+Just wait until 256 Kbytes are flashed, and then reset the connection. It should be sufficient for the bootloader to run.
+
