@@ -1,0 +1,11 @@
+00000000:0003ffff boot
+00040000:0023ffff kernel
+00240000:0058ffff roofs
+00590000:0062ffff driver
+00630000:00acffff appfs
+00ad0000:00ccffff backupk
+00cd0000:00d6ffff backupd
+00d70000:00f6ffff backupa
+00f70000:00faffff config
+00fb0000:00feffff para
+00ff0000:00ffffff flag
