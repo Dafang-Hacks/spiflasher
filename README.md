@@ -21,7 +21,7 @@ Next you can flash only the bootloader (it will take a while):
 
 ```
 
-sudo flashrom -p ch341a_spi -V -c GD25Q128C --layout rom.layout --image boot -w fullflash.bin
+sudo flashrom -p ch341a_spi -n -V -c GD25Q128C --layout rom.layout --image boot -w fullflash.bin
 
 ```
 
