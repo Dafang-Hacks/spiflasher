@@ -28,6 +28,6 @@ sudo flashrom -p ch341a_spi -V -c GD25Q128C --layout rom.layout --image boot -w 
 
 ## Advanced Setup for development
 
-![Dafang](board.jpg =250x250)
-![Dafang](chip.jpg | =250x250)
-![Dafang](connection.jpg =250x250)
+![Dafang](board.jpg)
+![Dafang](chip.jpg )
+![Dafang](connection.jpg)
